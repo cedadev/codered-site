@@ -41,6 +41,9 @@ if __name__ == "__main__":
         packages = find_packages(),
         include_package_data = True,
         zip_safe = False,
-        install_requires = ['coderedcms',],
+        install_requires = [
+            'coderedcms',
+            'psycopg2-binary',
+        ],
         #extras_require = { },
     )
