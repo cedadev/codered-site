@@ -1,11 +1,11 @@
 apptheme-codered===unknown
--e git+https://github.com/cedadev/apptheme-codered-jasmin.git@62da80df36ac4a6f730dd9858285b152627f58c7#egg=apptheme_codered_jasmin
+git+https://github.com/cedadev/apptheme-codered-jasmin.git@62da80df36ac4a6f730dd9858285b152627f58c7#egg=apptheme_codered_jasmin
 asgiref==3.2.7
 beautifulsoup4==4.6.0
 certifi==2020.4.5.1
 chardet==3.0.4
 click==7.1.2
--e git+https://github.com/cedadev/codered-site.git@4636f45babfc27de6d1c35ca4052558f811106d0#egg=codered_site
+git+https://github.com/cedadev/codered-site.git@4636f45babfc27de6d1c35ca4052558f811106d0#egg=codered_site
 coderedcms==0.18.0
 decorator==4.4.2
 Django==3.0.5
