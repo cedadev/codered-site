@@ -1,8 +1,46 @@
-coderedcms
-
-# django_sendmail_backend enables sending email from your web host server.
-# Remove this if using a different email backend.
-#django_sendmail_backend
-
-# To use with a MySQL database (offered by most web hosts), uncomment the following.
-#mysqlclient
+apptheme-codered===unknown
+-e git+https://github.com/cedadev/apptheme-codered-jasmin.git@62da80df36ac4a6f730dd9858285b152627f58c7#egg=apptheme_codered_jasmin
+asgiref==3.2.7
+beautifulsoup4==4.6.0
+certifi==2020.4.5.1
+chardet==3.0.4
+click==7.1.2
+-e git+https://github.com/cedadev/codered-site.git@4636f45babfc27de6d1c35ca4052558f811106d0#egg=codered_site
+coderedcms==0.18.0
+decorator==4.4.2
+Django==3.0.5
+django-bootstrap4==1.1.1
+django-eventtools==1.0.0
+django-feedparser==0.2.1
+django-modelcluster==5.0.1
+django-settings-object==0.1.dev7+gea07d76
+django-taggit==1.2.0
+django-treebeard==4.3.1
+djangorestframework==3.11.0
+draftjs-exporter==2.1.7
+feedparser==5.2.1
+future==0.18.2
+geocoder==1.38.1
+html5lib==1.0.1
+icalendar==4.0.5
+idna==2.9
+jasmin-auth-django-admin==0.1.dev2+ga0ab51d
+l18n==2018.5
+oauthlib==3.1.0
+Pillow==6.2.2
+psycopg2-binary==2.8.5
+python-dateutil==2.8.1
+pytz==2020.1
+ratelim==0.1.6
+requests==2.23.0
+requests-oauthlib==1.3.0
+six==1.14.0
+sqlparse==0.3.1
+Unidecode==1.1.1
+urllib3==1.25.9
+wagtail==2.8.1
+wagtail-cache==1.0.0
+wagtail-import-export==0.2
+wagtailfontawesome==1.2.1
+webencodings==0.5.1
+Willow==1.3
