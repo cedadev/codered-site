@@ -4,7 +4,6 @@ beautifulsoup4==4.6.0
 certifi==2020.4.5.1
 chardet==3.0.4
 click==7.1.2
-git+https://github.com/cedadev/codered-site.git@13740877cab006f3875ca54a5bce48da5376239c#egg=codered_site
 coderedcms==0.18.0
 decorator==4.4.2
 Django==3.0.6
