@@ -1,10 +1,10 @@
--e git+https://github.com/cedadev/apptheme-codered-jasmin.git@c1c6f8298343b6cc0870304129a96686d8ff3b46#egg=apptheme_codered_jasmin
+git+https://github.com/cedadev/apptheme-codered-jasmin.git@c1c6f8298343b6cc0870304129a96686d8ff3b46#egg=apptheme_codered_jasmin
 asgiref==3.2.7
 beautifulsoup4==4.6.0
 certifi==2020.4.5.1
 chardet==3.0.4
 click==7.1.2
--e git+https://github.com/cedadev/codered-site.git@13740877cab006f3875ca54a5bce48da5376239c#egg=codered_site
+git+https://github.com/cedadev/codered-site.git@13740877cab006f3875ca54a5bce48da5376239c#egg=codered_site
 coderedcms==0.18.0
 decorator==4.4.2
 Django==3.0.6
@@ -27,7 +27,6 @@ idna==2.9
 l18n==2018.5
 Pillow==6.2.2
 psycopg2-binary==2.8.5
-pytest-runner==5.2
 python-dateutil==2.8.1
 pytz==2020.1
 ratelim==0.1.6
