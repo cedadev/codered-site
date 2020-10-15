@@ -1,7 +1,7 @@
 git+https://github.com/cedadev/apptheme-codered-jasmin.git@v0.2#egg=apptheme_codered_jasmin
 asgiref==3.3.0
 beautifulsoup4==4.8.2
-cedadev-slack-logging-handler==0.1
+slack-logging-handler==0.1
 certifi==2020.6.20
 chardet==3.0.4
 click==7.1.2
