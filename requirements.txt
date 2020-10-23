@@ -1,4 +1,4 @@
-git+https://github.com/cedadev/apptheme-codered-jasmin.git@v0.2#egg=apptheme_codered_jasmin
+git+https://github.com/cedadev/apptheme-codered-jasmin.git@v0.3#egg=apptheme_codered_jasmin
 coderedcms==0.19
 django-cookie-law==2.0.3
 django-feedparser==0.2.1
